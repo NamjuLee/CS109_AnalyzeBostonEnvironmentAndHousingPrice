@@ -4,7 +4,7 @@
 
 ### Prof. Pavlos Protopapas, Kevin Rader, Weiwei Pan
 
-[website](www.njstudio.co.kr/main/project/2016_HarvardCS109_DataScience)
+[website](http://www.njstudio.co.kr/main/project/2016_HarvardCS109_DataScience)
 
 Jia Gu, Harvard GSD, elliehan07@gmail.com
 
