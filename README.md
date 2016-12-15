@@ -4,7 +4,22 @@
 
 ### Prof. Pavlos Protopapas, Kevin Rader, Weiwei Pan
 
-[website](http://www.njstudio.co.kr/main/project/2016_HarvardCS109_DataScience)
+[Website Link](http://www.njstudio.co.kr/main/project/2016_HarvardCS109_DataScience)
+
+### Step 1 :Data Parsing
+Parsing, clearing, and data structure
+
+### Step 2 :Data Exploration
+Data Visualization and Exploration
+
+### Step 3 :Leraning Housing Price
+Lasso, ridge, RandomForest Regression, and ETC
+
+### Step 4 :Leraning Renting Price
+KNN, Lasso, ridge, RandomForest Regressor, PCA for Logistic Regression, Decision Tree, Random Forest Classifier, and ETC
+
+### Step 5 :Conclusion
+the conclusion of the research
 
 Jia Gu, Harvard GSD, elliehan07@gmail.com
 
