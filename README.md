@@ -4,7 +4,7 @@
 
 ### Prof. Pavlos Protopapas, Kevin Rader, Weiwei Pan
 
-[Website Link](http://www.njstudio.co.kr/main/project/2016_HarvardCS109_DataScience)
+##[Website Link](http://www.njstudio.co.kr/main/project/2016_HarvardCS109_DataScience)
 
 ### Step 1 :Data Parsing
 Parsing, clearing, and data structure
@@ -21,6 +21,7 @@ KNN, Lasso, ridge, RandomForest Regressor, PCA for Logistic Regression, Decision
 ### Step 5 :Conclusion
 the conclusion of the research
 
+## Team
 Jia Gu, Harvard GSD, elliehan07@gmail.com
 
 Eille Jungmin Han, Harvard GSD, elliehan07@gmail.com
